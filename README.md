@@ -17,7 +17,7 @@ Use it correctly to not miss out.
 ## Why Use the Trip.com Referral Code “FJ9XLJ”?
 Using a referral code is one of the easiest ways to get an instant discount on your travel bookings. Here are key benefits:
 
-## Top Benefits at a Glance
+### Top Benefits at a Glance
 
 **Instant savings:** 10% off your first qualifying booking using the code “FJ9XLJ”.
 
@@ -30,7 +30,7 @@ Using a referral code is one of the easiest ways to get an instant discount on y
 **Global reach:** Trip.com operates worldwide.
 
 **Note:** Actual discount may vary depending on destination, currency, taxes and whether the code is eligible for all bookings.
-# Bonus Perks
+### Bonus Perks
 
 You may also collect Trip Coins for future bookings (if eligible).
 
@@ -60,7 +60,7 @@ Finalise payment and keep records (booking confirmation, code used, discount sho
 Save any Trip Coins earned for future travel.
 
 
-## Key Tips & Tricks
+### Key Tips & Tricks
 
 Make sure the code is entered before payment. Some bookings may not allow retroactive discount.
 
@@ -74,7 +74,7 @@ Switch currency to your local (₹ INR for India) to check exact discount value 
 
 Compare the final price with other sites even after discount — always good practice.
 
-## Common Mistakes to Avoid
+### Common Mistakes to Avoid
 
 Using the code after payment (won’t apply).
 
@@ -88,7 +88,7 @@ Forgetting to verify the discount is displayed before final confirmation.
 
 Whenever a referral code is used, there are terms & conditions. While this code (“FJ9XLJ”) is being offered, you should still check Trip.com’s official terms. Here are common points:
 
-## Key Terms to Check
+### Key Terms to Check
 
 **New user only:** The referred person must not have an existing Trip.com account.
 
@@ -107,7 +107,7 @@ Whenever a referral code is used, there are terms & conditions. While this code 
 **Referral program rules:** Trip.com’s “Invite & Earn” scheme sets out rewards for referrer and referee.
 
 
-## Example Terms Summarised
+### Example Terms Summarised
 
 The referred friend signs up, books their first flight or hotel via Trip.com. Trip.com
 
@@ -115,7 +115,7 @@ The referrer gets Trip Coins or credit after the friend completes travel. Trip.c
 
 Discount may apply only in certain markets (e.g., UK, US, Australia). Trip.com Australia+1
 
-## A Tip: Keep Evidence
+### A Tip: Keep Evidence
 When you apply the code and book, take screenshots of:
 
 The referral code entry field.
@@ -126,7 +126,7 @@ Booking confirmation email.
 
 This helps in case you need to contact customer service about missing discount.
 
-## Strategy for Maximum Savings
+### Strategy for Maximum Savings
 
 Sign up as a new user using “FJ9XLJ”.
 
