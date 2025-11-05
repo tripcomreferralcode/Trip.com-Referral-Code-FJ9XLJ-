@@ -1,11 +1,11 @@
-## Trip.com Referral Code "FJ9XLJ" – Get 10% OFF on Hotels, Flights & Travel Bookings!
+# Trip.com Referral Code "FJ9XLJ" – Get 10% OFF on Hotels, Flights & Travel Bookings!
 
 If you’re planning your next trip and want to save money, you’ll love this: by using the referral code “FJ9XLJ” when signing up with Trip.com, you can get 10% off on hotels, flights and other travel bookings (subject to terms and availability). In this blog post, I’ll walk you through what the Trip.com referral code is, how to use it, the benefits, the catch, tips to maximise the savings — and why you should act now.
 
-# What is the Trip.com Referral Code?
+## What is the Trip.com Referral Code?
 The Trip.com referral code is a unique alphanumeric code that a user (existing customer) gives to a friend (new customer). When the friend signs up using that code (or referral link) and completes a qualifying booking (hotel, flight, etc.), both parties typically earn a reward. In this case, by using referral code “FJ9XLJ”, you – as the new user – are promised a discount of 10% on your booking.
 
-# Why does this exist? 
+## Why does this exist? 
 Because Trip.com rewards new users and referrers to expand their user base. According to Trip.com’s “Invite & Earn” scheme, when you refer friends they register and book, you can receive Trip Coins, and the referred friend can get welcome deals. Trip.com+2Trip.com+2
 So to summarise:
 
@@ -14,10 +14,10 @@ The same or another reward goes to the referring existing user.
 Your code “FJ9XLJ” is being offered to you (new user) for 10% off.
 Use it correctly to not miss out.
 
-# Why Use the Trip.com Referral Code “FJ9XLJ”?
+## Why Use the Trip.com Referral Code “FJ9XLJ”?
 Using a referral code is one of the easiest ways to get an instant discount on your travel bookings. Here are key benefits:
 
-# Top Benefits at a Glance
+## Top Benefits at a Glance
 
 **Instant savings:** 10% off your first qualifying booking using the code “FJ9XLJ”.
 
@@ -38,7 +38,7 @@ Newer users often unlock app-only deals or mobile savings.
 
 Referral codes often stack (or work alongside) with seasonal promos (subject to T&Cs).
 
-**How to Use the Trip.com Referral Code “FJ9XLJ”?**
+# How to Use the Trip.com Referral Code “FJ9XLJ”?
 
 Here’s a step-by-step guide to using the code properly so you don’t miss the discount.
 Steps:
@@ -60,7 +60,7 @@ Finalise payment and keep records (booking confirmation, code used, discount sho
 Save any Trip Coins earned for future travel.
 
 
-# Key Tips & Tricks
+## Key Tips & Tricks
 
 Make sure the code is entered before payment. Some bookings may not allow retroactive discount.
 
@@ -74,7 +74,7 @@ Switch currency to your local (₹ INR for India) to check exact discount value 
 
 Compare the final price with other sites even after discount — always good practice.
 
-# Common Mistakes to Avoid
+## Common Mistakes to Avoid
 
 Using the code after payment (won’t apply).
 
@@ -84,11 +84,11 @@ Ignoring terms such as “cannot be used with other promos”.
 
 Forgetting to verify the discount is displayed before final confirmation.
 
-# Terms & Conditions – What to Know?
+## Terms & Conditions – What to Know?
 
 Whenever a referral code is used, there are terms & conditions. While this code (“FJ9XLJ”) is being offered, you should still check Trip.com’s official terms. Here are common points:
 
-# Key Terms to Check
+## Key Terms to Check
 
 **New user only:** The referred person must not have an existing Trip.com account.
 
@@ -107,7 +107,7 @@ Whenever a referral code is used, there are terms & conditions. While this code 
 **Referral program rules:** Trip.com’s “Invite & Earn” scheme sets out rewards for referrer and referee.
 
 
-# Example Terms Summarised
+## Example Terms Summarised
 
 The referred friend signs up, books their first flight or hotel via Trip.com. Trip.com
 
@@ -115,7 +115,7 @@ The referrer gets Trip Coins or credit after the friend completes travel. Trip.c
 
 Discount may apply only in certain markets (e.g., UK, US, Australia). Trip.com Australia+1
 
-# A Tip: Keep Evidence
+## A Tip: Keep Evidence
 When you apply the code and book, take screenshots of:
 
 The referral code entry field.
@@ -126,7 +126,7 @@ Booking confirmation email.
 
 This helps in case you need to contact customer service about missing discount.
 
-# Strategy for Maximum Savings
+## Strategy for Maximum Savings
 
 Sign up as a new user using “FJ9XLJ”.
 
@@ -140,7 +140,7 @@ Book flights and hotels together if possible (package deals sometimes cheaper).
 
 Use the Trip.com app (mobile) as app-only deals often appear.
 
-# Step-By-Step Example Use Case
+## Step-By-Step Example Use Case
 
 Here’s a hypothetical scenario showing how you might use the referral code in real life.
 Example: Booking a Hotel in Bali
@@ -162,7 +162,7 @@ Later you write a review (if required) to earn Trip Coins for your next trip.
 You’re happy. You travel. You use less money thanks to the referral code.
 
 
-# Frequently Asked Questions (FAQs)
+## Frequently Asked Questions (FAQs)
 Q1: Is the Trip.com referral code “FJ9XLJ” valid forever?
 A: Not necessarily. Most referral codes and promotions have expiry dates, and may be valid only in certain regions. Always enter the code and check if discount is applied during booking.
 Q2: Can I use the referral code if I already have a Trip.com account?
@@ -176,7 +176,7 @@ A: If you cancel or change your booking, the discount may be void or you may los
 Q6: Where can I find more Trip.com offers beyond the referral code?
 A: On Trip.com’s official “Deals” page and Coupon aggregators. There are many current promo codes listed (hotels, flights, car rentals etc.). Trip.com+1
 
-# Things to Watch Out For
+## Things to Watch Out For
 
 The discount may exclude taxes and fees — meaning “10% less” might apply only to base fare, not full price including extras. For example in the UK, a similar code gave an average 7.13% off, because taxes/fees weren’t discounted.
 
@@ -190,7 +190,7 @@ The listed “10% off” might be a best-case or approximate. Real discount may 
 
 Reputation matters: While Trip.com is legitimate, always compare price to other platforms.
 
-# Why Trust Trip.com?
+## Why Trust Trip.com?
 Here are reasons why you can feel confident using Trip.com and applying the referral code:
 
 Trip.com is part of the Trip.com Group, a large international travel-service company.
@@ -201,12 +201,11 @@ It is frequently featured in deal-site aggregators, with many promotional offers
 
 Of course, you still need to do your own due diligence (check terms, compare prices, review cancellation policy) — but overall the platform is trustworthy.
 
-# Final Thoughts & CTA
+## Final Thoughts & CTA
 If you’re about to book a hotel, flight or travel package, using the Trip.com referral code “FJ9XLJ” is a smart move. A 10% discount is meaningful and helps you stretch your travel budget further.
 
-# Call to Action:
+## Call to Action:
 Sign up now on Trip.com using code "FJ9XLJ", apply the discount on your first booking, and enjoy your trip with more savings in hand. Don’t wait until later — promotional codes may expire or change, so lock in your savings today.
 Visit Trip.com → register → enter FJ9XLJ → book your travel.
-Remember: Use the referral code, verify the discount before payment, and compare the final price. Happy travels!
 
-Thank you for reading. If you found this helpful, you might also like our other travel-savings guides and “how to get promo codes” posts — touch base anytime.
+**Remember:** Use the referral code, verify the discount before payment, and compare the final price. Happy travels!
